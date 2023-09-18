@@ -1,0 +1,59 @@
+.head1 {
+    background-color:none;
+    height:auto;
+    width: 100%;
+    text-shadow: 10px;
+}
+::marker {
+    color: #b49fe6;
+}
+.btn2{
+    display: inline-block;
+    margin-top: 1px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #f1f4f7;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: black;
+    border: 7px solid #f6efef;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s;
+}
+
+
+
+.logo{
+    width:60px;
+    height: auto;
+    border-radius: 30px;
+    
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #eef3f2;
+    border: 1px solid #f2a1a1;
+    border-radius: 0.25rem;
+    transition: box-shadow .15s ease-in-out;
+}
+
+
+.bg-primary {
+    background-color: #b49fe6!important;
+}
+.btn-outline-danger {
+    color: #fff;
+    border-color: #fff;
+}
+.btn{
+    color: #0d0001;
+}
+

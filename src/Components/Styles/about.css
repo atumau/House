@@ -1,0 +1,49 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px solid rgb(250 247 247 / 13%);
+    border-radius: 0.25rem;
+}
+.welcome-text{
+    font-family: cursive;
+    font-weight: 500;
+}
+.wel-text{
+    font-family: cursive;
+    font-weight: bold;
+}
+.about-us{
+    width: 100%;
+    height: auto;
+
+    margin-top: 25px;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}
+.para{
+    font-family: cursive;
+    margin-top: 10px;
+    text-justify: auto;
+}
+.founding-img{
+    width: 100%;
+    height: auto;
+    
+}
+.story{
+    margin-top: 30px;
+font-family: cursive;
+font-weight: bold;
+}
+.story-para{
+font-family: cursive;
+margin-top: 15px;
+}
